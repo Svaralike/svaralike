@@ -20,4 +20,4 @@ This repository is currently being set up. Documentation, architecture, and sour
 
 ## License
 
-License to be determined.
+Apache License 2.0
