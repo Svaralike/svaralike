@@ -1,4 +1,4 @@
-# Soundalike
+# Svaralike
 
 > Discover music by how it *sounds*, not just by genre or artist.
 
